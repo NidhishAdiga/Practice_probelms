@@ -1,0 +1,1 @@
+cout<<p2->area()<<endl; //50 
